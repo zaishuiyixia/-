@@ -4,6 +4,6 @@
 
 解决方法：
 
-1. 修改背景颜色。在app.wxss中为page添加背景色。
+1. 修改背景颜色。在app.wxss中为page添加背景色。![image](https://github.com/zaishuiyixia/WeChat-small-program/raw/master/images/app.png)
 
-2. 修改下拉刷新小圆点的默认颜色。在添加下拉刷新页面对应的json文件中添加。
+2. 修改下拉刷新小圆点的默认颜色。在添加下拉刷新页面对应的json文件中添加。![image](https://github.com/zaishuiyixia/WeChat-small-program/raw/master/images/index.png)
